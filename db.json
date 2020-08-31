@@ -1,57 +1,51 @@
 {
-	"FoodToLoseWeight": [{
+	"FoodToGainWeight": [{
 			"id": "1",
-			"name": "Whole Eggs",
-			"desc": "Eggs are very filling and nutrient-dense. Compared to refined carbs like bagels, eggs can suppress appetite later in the day and may even promote weight loss.",
-			"image": "https://i.postimg.cc/3r0Yprwt/eggs.jpg"
+			"name": "Milk",
+			"desc": "Milk offers a mix of fat, carbohydrates, and proteins.It is also an excellent source of vitamins and minerals, including calcium. The protein content of milk makes it a good choice for people trying to build muscle.",
+			"image": "https://i.postimg.cc/FsXY2vQP/milk.jpg"
 		},
 		{
 			"id": "2",
-			"name": "Leafy Greens",
-			"desc": "Leafy greens are an excellent addition to your weight loss diet. Not only are they low in calories but also high in fiber that helps keep you feeling full.",
-			"image": "https://i.postimg.cc/7LQrGjrv/leafygreens.png"
+			"name": "Protein shakes",
+			"desc": "Protein shakes can help a person to gain weight easily and efficiently. A shake is most effective at helping to build muscle if drunk shortly after a workout.",
+			"image": "https://i.postimg.cc/N0Xqh3t4/protein-smoothies-lead.png"
 		},
 		{
 			"id": "3",
-			"name": "Salmon",
-			"desc": "Salmon is high in both protein and omega-3 fatty acids, making it a good choice for a healthy weight loss diet.",
-			"image": "https://i.postimg.cc/PrzGzCnQ/salmon.jpg"
+			"name": "Rice",
+			"desc": "A cup of rice contains about 200 calories, and it is also a good source of carbohydrates, which contribute to weight gain. Many people find it easy to incorporate rice into meals containing proteins and vegetables.",
+			"image": "https://i.postimg.cc/TY3z2LGh/how-to-cook-rice.jpg"
 		},
 		{
 			"id": "4",
-			"name": "Cruciferous Vegetables",
-			"desc": "Cruciferous vegetables are low in calories but high in fiber and nutrients. Adding them to your diet is not only an excellent weight loss strategy but may also improve your overall health.",
-			"image": "https://i.postimg.cc/sXvQ5FB5/cruciferous.jpg"
+			"name": "Red meat",
+			"desc": "Consuming red meat has been shown to help with building muscle and gaining weight.Steak contains both leucine and creatine, nutrients that play a significant role in boosting muscle mass. Steak and other red meats contain both protein and fat, which promote weight gain.While a person is advised to limit their intake, leaner cuts of red meat are healthier for the heart than fattier cuts.",
+			"image": "https://i.postimg.cc/0Q3w6KFx/redmeat.png"
 		},
 		{
 			"id": "5",
-			"name": "Lean Beef and Chicken Breast",
-			"desc": "Eating unprocessed lean meat is an excellent way to increase your protein intake. Replacing some of the carbs or fat in your diet with protein could make it easier for you to lose excess fat.",
-			"image": "https://i.postimg.cc/ZKZfFjcC/chicken-grilled-800x.png"
+			"name": "Nuts and nut butter",
+			"desc": "Consuming nuts regularly can help a person to gain weight safely. Nuts are a great snack and can be added to many meals, including salads. Raw or dry roasted nuts have the most health benefits.Nut butters made without added sugar or hydrogenated oils can also help. The only ingredient in these butters should be the nuts themselves.",
+			"image": "https://i.postimg.cc/fL3Cy95j/nutsbutter.jpg"
 		},
 		{
 			"id": "6",
-			"name": "Boiled Potatoes",
-			"desc": "Boiled potatoes are among the most filling foods. They’re particularly good at reducing your appetite, potentially suppressing your food intake later in the day.",
-			"image": "https://i.postimg.cc/WzV78b0Q/Easy-Potatoes-4-Ways-Boiled-Potatoes-1-Ashley-Fehr-7-2017-Web-Res.jpg"
+			"name": "Whole-grain breads",
+			"desc": "These breads contain complex carbohydrates, which can promote weight gain. Some also contain seeds, which provide added benefits.",
+			"image": "https://i.postimg.cc/bv1NhCfQ/bread.jpg"
 		},
 		{
 			"id": "7",
-			"name": "Tuna",
-			"desc": "Tuna is an excellent, lean source of high-quality protein. Replacing other macronutrients, such as carbs or fat, with protein is an effective weight loss strategy on a calorie-restricted diet.",
-			"image": "https://i.postimg.cc/MHzyR3Sw/tuna.jpg"
+			"name": "Other starches",
+			"desc": "Starches help some of the foods already listed to boost muscle growth and weight gain. They add bulk to meals and boost the number of calories consumed.",
+			"image": "https://i.postimg.cc/zXLNNtnV/starch.jpg"
 		},
 		{
 			"id": "8",
-			"name": "Beans and Legumes",
-			"desc": "Beans and legumes are a good addition to your weight loss diet. They’re both high in protein and fiber, contributing to feelings of fullness and a lower calorie intake.",
-			"image": "https://i.postimg.cc/8PKhJbn8/legumes-colors-1-800x1200.jpg"
-		},
-		{
-			"id": "9",
-			"name": "Soups",
-			"desc": "Soups can be an effective part of a weight loss diet. Their high water content makes them very filling. However, try to avoid creamy or oily soups.",
-			"image": "https://i.postimg.cc/Xqy0fLc2/20171115-chicken-soup-vicky-wasik-11-1500x1125.jpg"
+			"name": "Protein supplements",
+			"desc": "Athletes looking to gain weight often use protein supplements to boost muscle mass, in combination with resistance training.Protein supplements are available for purchase online. They may be an inexpensive way to consume more calories and gain weight..",
+			"image": "https://i.postimg.cc/h4NDXR49/proteinsupplements.jpg"
 		}
 	]
 }
