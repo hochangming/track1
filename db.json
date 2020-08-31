@@ -1,14 +1,57 @@
 {
-  "Food": [
-    {
-      "Food_name": "salad_mango",
-      "size": 10,
-      "Restaurant": "Kopitiam"
-    },
-    {
-      "Food_name": "Pasta_bolognese",
-      "size": 15,
-      "Restaurant": "Pasta Mania"
-    }
-  ]
+	"FoodToLoseWeight": [{
+			"id": "1",
+			"name": "Whole Eggs",
+			"desc": "Eggs are very filling and nutrient-dense. Compared to refined carbs like bagels, eggs can suppress appetite later in the day and may even promote weight loss.",
+			"image": "https://i.postimg.cc/3r0Yprwt/eggs.jpg"
+		},
+		{
+			"id": "2",
+			"name": "Leafy Greens",
+			"desc": "Leafy greens are an excellent addition to your weight loss diet. Not only are they low in calories but also high in fiber that helps keep you feeling full.",
+			"image": "https://i.postimg.cc/7LQrGjrv/leafygreens.png"
+		},
+		{
+			"id": "3",
+			"name": "Salmon",
+			"desc": "Salmon is high in both protein and omega-3 fatty acids, making it a good choice for a healthy weight loss diet.",
+			"image": "https://i.postimg.cc/PrzGzCnQ/salmon.jpg"
+		},
+		{
+			"id": "4",
+			"name": "Cruciferous Vegetables",
+			"desc": "Cruciferous vegetables are low in calories but high in fiber and nutrients. Adding them to your diet is not only an excellent weight loss strategy but may also improve your overall health.",
+			"image": "https://i.postimg.cc/sXvQ5FB5/cruciferous.jpg"
+		},
+		{
+			"id": "5",
+			"name": "Lean Beef and Chicken Breast",
+			"desc": "Eating unprocessed lean meat is an excellent way to increase your protein intake. Replacing some of the carbs or fat in your diet with protein could make it easier for you to lose excess fat.",
+			"image": "https://i.postimg.cc/ZKZfFjcC/chicken-grilled-800x.png"
+		},
+		{
+			"id": "6",
+			"name": "Boiled Potatoes",
+			"desc": "Boiled potatoes are among the most filling foods. They’re particularly good at reducing your appetite, potentially suppressing your food intake later in the day.",
+			"image": "https://i.postimg.cc/WzV78b0Q/Easy-Potatoes-4-Ways-Boiled-Potatoes-1-Ashley-Fehr-7-2017-Web-Res.jpg"
+		},
+		{
+			"id": "7",
+			"name": "Tuna",
+			"desc": "Tuna is an excellent, lean source of high-quality protein. Replacing other macronutrients, such as carbs or fat, with protein is an effective weight loss strategy on a calorie-restricted diet.",
+			"image": "https://i.postimg.cc/MHzyR3Sw/tuna.jpg"
+		},
+		{
+			"id": "8",
+			"name": "Beans and Legumes",
+			"desc": "Beans and legumes are a good addition to your weight loss diet. They’re both high in protein and fiber, contributing to feelings of fullness and a lower calorie intake.",
+			"image": "https://i.postimg.cc/8PKhJbn8/legumes-colors-1-800x1200.jpg"
+		},
+		{
+			"id": "9",
+			"name": "Soups",
+			"desc": "Soups can be an effective part of a weight loss diet. Their high water content makes them very filling. However, try to avoid creamy or oily soups.",
+			"image": "https://i.postimg.cc/Xqy0fLc2/20171115-chicken-soup-vicky-wasik-11-1500x1125.jpg"
+		}
+	]
 }
